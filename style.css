@@ -1,0 +1,21 @@
+#game{
+display:none;
+}
+
+
+#divElem {
+    margin-bottom: 50px;
+    display: flex;
+    
+}
+
+.divUnit {
+    border-bottom: 2px solid black;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.hang {
+    display: none;
+}
